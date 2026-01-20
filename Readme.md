@@ -27,6 +27,6 @@ The primary goal of this capstone project is to bridge the gap between raw sales
 
 ## 🔗 Links
 
-**Kaggle Link of Dataset:** https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset/data 
-**Colab link of Cleaning:** https://colab.research.google.com/drive/1FOUDunei4UAdt6JdnZM34EiNLvb38i0e?usp=sharing 
-**Colab link of Main analysis:** https://colab.research.google.com/drive/1emGXqvG4qW__FhzKSreCY4U8GHvwN23N?usp=sharing
+* **Kaggle Link of Dataset:** https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset/data 
+* **Colab link of Cleaning:** https://colab.research.google.com/drive/1FOUDunei4UAdt6JdnZM34EiNLvb38i0e?usp=sharing 
+* **Colab link of Main analysis:** https://colab.research.google.com/drive/1emGXqvG4qW__FhzKSreCY4U8GHvwN23N?usp=sharing
